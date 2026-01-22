@@ -6,7 +6,7 @@ export default function UserData() {
 				width="30px"
 			/>
 			<span>Cart (0)</span>
-			<p>Malith Dilshan</p>
+			<p>Kaveesha Lakshan</p>
 		</div>
 	);
 }
